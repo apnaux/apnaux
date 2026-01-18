@@ -27,5 +27,4 @@ I'm a Junior Full-Stack Software Engineer. I enjoy building solutions that are *
 ## 📬 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/chrlx](https://www.linkedin.com/in/chrlx/)
 - **Email:** [christian@chrx.cc](mailto:christian.chrx.cc)
-- **GitHub:** [apnaux](https://github.com/a
-- pnaux)
+- **GitHub:** [apnaux](https://github.com/apnaux)
