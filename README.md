@@ -8,6 +8,9 @@ I'm a Junior Full-Stack Software Engineer. I enjoy building solutions that are *
 - **Frontend Development**: Vue.js, JavaScript, HTML, CSS, TailwindCSS
 - **DevOps & Infrastructure**: Docker, Caddy, Linux, Bash, Azure, Netdata
 
+## 📚 Skills Currently Learning
+- Github Actions, Terraform, Ansible
+
 ## 🚧 Projects
 
 ### 💳 (ongoing) [balancé](https://github.com/apnaux/balance-be): a Budget/Transaction tracker web app
